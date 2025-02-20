@@ -2,23 +2,20 @@
 
 ### Key Features:
 
-- 🎨 Tailwind design & animations  
-- 📱 Fully responsive UI  
+- 📦 Vector databases with Pinecone  
+- ⚡ Redis caching with Upstash  
+- 🧠 Long-term AI memory service  
+- 🔗 Langchain integration  
+- 🎨 Tailwind design & full responsiveness
 - 🔐 Clerk authentication  
 - ✅ Form validation with react-hook-form  
-- ⚠️ Server error handling via react-toast  
-- 🖼️ AI-powered image generation (OpenAI)  
-- 🎥 AI-powered video generation (Replicate AI)  
-- 💬 AI-powered conversation tool (OpenAI)  
-- 🎵 AI-powered music generation (Replicate AI)  
 - ⏳ Smooth page loading states  
 - 💳 Stripe monthly subscription  
-- 🆓 Free tier with API limits  
 - 🔄 REST API: POST, DELETE, GET in route handlers  
 - 🚀 Server-side data fetching without APIs  
 - 🔗 Managing parent-child component relations  
 - ♻️ Reusable layouts  
-- 📂 Optimized folder structure in Next.js 13  
+- 📂 Optimized folder structure in Next.js 13 
 
 
 ### Prerequisites
